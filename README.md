@@ -1,3 +1,3 @@
 # Discord-webhook-test
-everyone test
+@everyone test
 
